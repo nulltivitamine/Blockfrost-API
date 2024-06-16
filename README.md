@@ -1,2 +1,0 @@
-# Blockfrost-API
-Blockfrost API
